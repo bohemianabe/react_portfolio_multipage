@@ -1,0 +1,16 @@
+{
+    "forms": {
+        "contactMe": {
+            "name": "ContactMe",
+            "actions": [{ "type": "email", "to": "agarrido84@gmail.com"}],
+            "fields": {
+                "email": {
+                    "required": true
+                }, 
+                "name": {
+                    "required": true
+                }
+            }
+        }
+    }
+}
